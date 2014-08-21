@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="my_book"/>
+  <table-filter match-name="chung_loai"/>
+  <table-filter match-name="chi_tiet_sach"/>
+  <table-filter match-name="tac_gia"/>
+  <table-filter match-name="nha_xuat_ban"/>
+  <table-filter match-name="sach"/>
+</hibernate-reverse-engineering>
